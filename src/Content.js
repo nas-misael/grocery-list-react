@@ -21,7 +21,7 @@ function Content({ items, handleCheck, handleDelete }) {
   // )
 
   return (
-    <main>
+    <>
       {items.length ? (
         <ItemList
           items={items}
@@ -31,7 +31,7 @@ function Content({ items, handleCheck, handleDelete }) {
       ) : (
         <p style={{ marginTop: "2rem" }}> Sua lista está vazia</p>
       )}
-    </main>
+    </>
   );
 }
 

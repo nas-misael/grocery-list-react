@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, unsalted, in the blug bag"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, unsalted, in the blug bag"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, unsalted, in the blug bag"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Misael"
+    }
+  ]
+}
